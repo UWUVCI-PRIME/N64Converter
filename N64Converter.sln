@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N64Converter", "N64Converter\N64Converter.csproj", "{3688CCF2-0C5F-465A-88DF-E31EF51057DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterTest", "ConverterTest\ConverterTest.csproj", "{3FF8123E-7B98-41D5-9DEB-AB5936ED201E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3688CCF2-0C5F-465A-88DF-E31EF51057DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3688CCF2-0C5F-465A-88DF-E31EF51057DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3688CCF2-0C5F-465A-88DF-E31EF51057DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF8123E-7B98-41D5-9DEB-AB5936ED201E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF8123E-7B98-41D5-9DEB-AB5936ED201E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF8123E-7B98-41D5-9DEB-AB5936ED201E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF8123E-7B98-41D5-9DEB-AB5936ED201E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
